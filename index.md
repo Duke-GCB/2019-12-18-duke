@@ -166,6 +166,13 @@ special instructions.
 </p>
 
 {% comment %}
+Registration
+{% endcomment %}
+<p id="registration">
+  <strong>Registration</strong>: Please submit fill out and submit the <a href="https://duke.qualtrics.com/jfe/form/SV_3qizGUqm4PSYdXT" target="_blank">online registration form</a>. 
+</p>
+
+{% comment %}
 CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
